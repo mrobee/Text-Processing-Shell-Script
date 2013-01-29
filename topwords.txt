@@ -1,0 +1,740 @@
+  40 rt
+  12 rt	rt
+  11 sby
+   6 via
+   6 kualat
+   5 kualat	kualat
+   5 iya
+   5 detikcom
+   4 quot
+   3 serrays
+   3 semangat
+   3 sebelum
+   3 lol
+   3 i
+   3 hari
+   3 ga
+   3 dalam
+   3 besok
+   3 amin
+   3 #indonesia
+   2 udah
+   2 siang
+   2 sama
+   2 rt	detikcom
+   2 ready
+   2 quot	hari
+   2 presiden
+   2 ni
+   2 mas
+   2 makan
+   2 maaf
+   2 ky
+   2 ke
+   2 k
+   2 jgn
+   2 have
+   2 gadisbyrne
+   2 ga	rt
+   2 detikcom	detikcom
+   2 ayoo
+   2 ayo
+   2 aku
+   2 18
+   1 z3mn	rt
+   1 z3mn
+   1 yukkk	lanjutkan
+   1 yukkk
+   1 your	ya
+   1 your
+   1 yg	aq
+   1 yg
+   1 yang	hansdavidian
+   1 yang
+   1 yaah	aww
+   1 yaah
+   1 ya	ouch
+   1 ya
+   1 www	tribunnews
+   1 www
+   1 wuuuiiiii	cieee
+   1 wuuuiiiii
+   1 wkwkwk	kbiasaan
+   1 wkwkwk
+   1 waw	dns
+   1 waw
+   1 wah	deyliaaaa
+   1 wah
+   1 w	ke
+   1 w
+   1 video	rt
+   1 video
+   1 via	z3mn
+   1 via	semangat
+   1 via	sby
+   1 via	rthaha
+   1 via	menurut
+   1 via	andhinichantika
+   1 valihadan	nankinann
+   1 valihadan
+   1 usulan	biasa
+   1 usulan
+   1 ugd	fatimaalkaff
+   1 ugd
+   1 udahrt	ini
+   1 udahrt
+   1 udah	permainkan
+   1 udah	k
+   1 trs	capeeee
+   1 trs
+   1 tribunnews	com
+   1 tribunnews
+   1 tp	semoga
+   1 tp
+   1 tmn	mention
+   1 tmn
+   1 tl	egois
+   1 tl
+   1 tjipta	aku
+   1 tjipta
+   1 ti	rt
+   1 ti
+   1 three	dazzlinm
+   1 three
+   1 those	riskiana
+   1 those
+   1 thespecial_wan	ayoo
+   1 thespecial_wan
+   1 the	hari
+   1 the
+   1 thank	ready
+   1 thank
+   1 test	tara
+   1 test
+   1 tara	sundul
+   1 tara
+   1 take	pengen
+   1 take
+   1 t_t	mampir
+   1 t_t
+   1 sundul	amin
+   1 sundul
+   1 stella_wen2	ivanntasripin
+   1 stella_wen2
+   1 sparring	bangke
+   1 sparring
+   1 soundcheck	rt
+   1 soundcheck
+   1 soooo	mas
+   1 soooo
+   1 sjudithial	quot
+   1 sjudithial
+   1 sip	soooo
+   1 sip
+   1 siap	ni
+   1 siap
+   1 siang	semangat
+   1 siang	okeh2
+   1 setuju	ingin
+   1 setuju
+   1 seru	25
+   1 seru
+   1 serrays	serrays
+   1 serrays	ayaslieby
+   1 serrays	_lidsy
+   1 seperti	rt
+   1 seperti
+   1 sendiri	udahrt
+   1 sendiri
+   1 semua	tl
+   1 semua
+   1 semoga	kerbaunya
+   1 semoga
+   1 semangat	yg
+   1 semangat	muleh
+   1 semangat	#np
+   1 selepet	rt
+   1 selepet
+   1 selamat	158
+   1 selamat
+   1 sebenernye	liputan6dotcom
+   1 sebenernye
+   1 sebelum	makan
+   1 sebelum	jgn
+   1 sebelum	#help
+   1 sby	via
+   1 sby	maaf
+   1 sby	knapa
+   1 sby	jablayyy
+   1 sby	ht2
+   1 sby	hayuu
+   1 sby	beli
+   1 sby	bahas
+   1 sby	audreygallagher
+   1 sby	armada
+   1 sby	3x
+   1 sayalonzo	ready
+   1 sayalonzo
+   1 sapi	live
+   1 sapi
+   1 sama	huahaha
+   1 sama	ayo
+   1 salah	ipo
+   1 salah
+   1 sahrup	ke
+   1 sahrup
+   1 s	
+   1 s
+   1 ryuhasan	mengawali
+   1 ryuhasan
+   1 rthaha	ga
+   1 rthaha
+   1 rt	via
+   1 rt	tp
+   1 rt	thank
+   1 rt	t_t
+   1 rt	stella_wen2
+   1 rt	serrays
+   1 rt	sby
+   1 rt	rasanya
+   1 rt	oalah
+   1 rt	mata
+   1 rt	mallaawi
+   1 rt	mahfud
+   1 rt	kultwit
+   1 rt	kompas
+   1 rt	irmamoemoe
+   1 rt	individualisme
+   1 rt	halah
+   1 rt	hadeeh
+   1 rt	flight
+   1 rt	dkt
+   1 rt	bsk
+   1 rt	beenran
+   1 rt	bakal
+   1 rt	bagus
+   1 rt	artha201189
+   1 rt	#quizchic
+   1 riskiana	sjudithial
+   1 riskiana
+   1 rioalbertoena	valihadan
+   1 rioalbertoena
+   1 rie_nda	kualat
+   1 rie_nda
+   1 rianloh	besok
+   1 rianloh
+   1 resha	keren
+   1 resha
+   1 reporternya	wah
+   1 reporternya
+   1 really	sby
+   1 really
+   1 ready	hihihi
+   1 ready	ga
+   1 rasanya	belum
+   1 rasanya
+   1 rasakan	semangat
+   1 rasakan
+   1 rapat	rianloh
+   1 rapat
+   1 rame	serrays
+   1 rame
+   1 r_chitra	via
+   1 r_chitra
+   1 quot	hey
+   1 quot	dalam
+   1 purna	poll
+   1 purna
+   1 pulang	heviehz
+   1 pulang
+   1 pria	maaf
+   1 pria
+   1 presiden	have
+   1 presiden	asroyangkoi
+   1 poll	semua
+   1 poll
+   1 please	siang
+   1 please
+   1 pkbr	biaya
+   1 pkbr
+   1 permainkan	matikan
+   1 permainkan
+   1 pengen	lek
+   1 pengen
+   1 pasti	rt
+   1 pasti
+   1 pagi2	iyaa
+   1 pagi2
+   1 pagi	eh
+   1 pagi
+   1 oyasumi	ngewarkop
+   1 oyasumi
+   1 ouch	kmren
+   1 ouch
+   1 otw	have
+   1 otw
+   1 ooo	hahahha
+   1 ooo
+   1 onok	#drop
+   1 onok
+   1 okeh2	dune
+   1 okeh2
+   1 oalah	menyibukkan
+   1 oalah
+   1 numpang	gt
+   1 numpang
+   1 now	yukkk
+   1 now
+   1 nisadisini	nanti
+   1 nisadisini
+   1 ni	mari
+   1 ni	besok
+   1 nguping	lol
+   1 nguping
+   1 ngewarkop	s
+   1 ngewarkop
+   1 ngegares	numpang
+   1 ngegares
+   1 ndaaaakk	lemot
+   1 ndaaaakk
+   1 nasional	belom
+   1 nasional
+   1 nanti	apasiii
+   1 nanti
+   1 nankinann	ngegares
+   1 nankinann
+   1 muleh	hardrockers
+   1 muleh
+   1 mnggu	oyasumi
+   1 mnggu
+   1 mksdnya	ada
+   1 mksdnya
+   1 misbakhun	kaget
+   1 misbakhun
+   1 minum	sendiri
+   1 minum
+   1 menyibukkan	kasihan
+   1 menyibukkan
+   1 menurut	http
+   1 menurut
+   1 mention	hehehe
+   1 mention
+   1 mengawali	iyah
+   1 mengawali
+   1 mba	siang
+   1 mba
+   1 matikan	via
+   1 matikan
+   1 mata	ayoo
+   1 mata
+   1 masih	wuuuiiiii
+   1 masih
+   1 mash	mantaaapssss
+   1 mash
+   1 mas	gua
+   1 mas	abiy_jualan
+   1 maroon	evhielin
+   1 maroon
+   1 mari	mas
+   1 mari
+   1 mantaaapssss	iya
+   1 mantaaapssss
+   1 mampir	maroon
+   1 mampir
+   1 mallaawi	ayo
+   1 mallaawi
+   1 makan	test
+   1 makan	acaranya
+   1 mahfud	udah
+   1 mahfud
+   1 maaf	itukan
+   1 maaf	anday
+   1 lol	sayalonzo
+   1 lol	mksdnya
+   1 lol	bikin
+   1 live	iya
+   1 live
+   1 liquid	betul
+   1 liquid
+   1 liputan6dotcom	dan
+   1 liputan6dotcom
+   1 lilamalia	sapi
+   1 lilamalia
+   1 libetz	bli
+   1 libetz
+   1 liat	your
+   1 liat
+   1 lemot	dalem
+   1 lemot
+   1 lek	iya
+   1 lek
+   1 laporkan	ndaaaakk
+   1 laporkan
+   1 lanjutkan	kaya
+   1 lanjutkan
+   1 ky	ky
+   1 ky	dalam
+   1 kultwit	rt
+   1 kultwit
+   1 kubu	misbakhun
+   1 kubu
+   1 kualat	rt
+   1 krn	intel
+   1 krn
+   1 kompas	r_chitra
+   1 kompas
+   1 kog	bellaryvia
+   1 kog
+   1 knp	nasional
+   1 knp
+   1 knapa	#indonesia
+   1 knapa
+   1 kmren	ihhh
+   1 kmren
+   1 klo	setuju
+   1 klo
+   1 kerjo	jengg
+   1 kerjo
+   1 keren	sby
+   1 keren
+   1 kerbaunya	thespecial_wan
+   1 kerbaunya
+   1 kenyong	sebelum
+   1 kenyong
+   1 kejagung	amandaaanjel
+   1 kejagung
+   1 ke	onok
+   1 ke	i
+   1 kbiasaan	rt
+   1 kbiasaan
+   1 kaya	i
+   1 kaya
+   1 kasusnya	dalam
+   1 kasusnya
+   1 kasihan	sby
+   1 kasihan
+   1 kampret	rt
+   1 kampret
+   1 kaget	sby
+   1 kaget
+   1 kacang	k
+   1 kacang
+   1 k	mba
+   1 k	#
+   1 justru	rame
+   1 justru
+   1 jkt	being
+   1 jkt
+   1 jgn	sebelum
+   1 jgn	nguping
+   1 jengg	brkt
+   1 jengg
+   1 jam	lol
+   1 jam
+   1 jaksa	ni
+   1 jaksa
+   1 jakarta	rt
+   1 jakarta
+   1 jablayyy	rt
+   1 jablayyy
+   1 iyah	take
+   1 iyah
+   1 iyaa	ky
+   1 iyaa
+   1 iya	tmn
+   1 iya	rt
+   1 iya	liat
+   1 iya	kerjo
+   1 iya	jgn
+   1 ivanntasripin	fahrihamzah
+   1 ivanntasripin
+   1 itukan	kejagung
+   1 itukan
+   1 itu	knp
+   1 itu
+   1 irmamoemoe	pkbr
+   1 irmamoemoe
+   1 ipo	w
+   1 ipo
+   1 intel	aku
+   1 intel
+   1 ini	sby
+   1 ini
+   1 ingin	akhirnya
+   1 ingin
+   1 individualisme	kampret
+   1 individualisme
+   1 inalillahi	rt
+   1 inalillahi
+   1 ihhh	yang
+   1 ihhh
+   1 ifadafauzia	ooo
+   1 ifadafauzia
+   1 i	wkwkwk
+   1 i	buahaya
+   1 i	ah
+   1 hug	ryuhasan
+   1 hug
+   1 huahaha	iya
+   1 huahaha
+   1 http	www
+   1 http
+   1 ht2	hmm
+   1 ht2
+   1 hmm	cuma
+   1 hmm
+   1 hihihi	rt
+   1 hihihi
+   1 hey	mash
+   1 hey
+   1 heviehz	tjipta
+   1 heviehz
+   1 hehehe	rt
+   1 hehehe
+   1 hbd	ga
+   1 hbd
+   1 hayuu	liquid
+   1 hayuu
+   1 have	congrat
+   1 have	buat
+   1 hari	rt
+   1 hari	quot
+   1 hari	banyak
+   1 hardrockers	presiden
+   1 hardrockers
+   1 hansdavidian	otw
+   1 hansdavidian
+   1 halah	video
+   1 halah
+   1 hahahha	please
+   1 hahahha
+   1 hahaha	rt
+   1 hahaha
+   1 hah	sebenernye
+   1 hah
+   1 hadeeh	sip
+   1 hadeeh
+   1 gw	masih
+   1 gw
+   1 gua	via
+   1 gua
+   1 gt	bungkulrt
+   1 gt
+   1 gileee	abis
+   1 gileee
+   1 gila	pagi
+   1 gila
+   1 gadisbyrne	selamat
+   1 gadisbyrne	sby
+   1 ga	yaah
+   1 flight	the
+   1 flight
+   1 fatimaalkaff	i
+   1 fatimaalkaff
+   1 fahrihamzah	sama
+   1 fahrihamzah
+   1 evhielin	libetz
+   1 evhielin
+   1 eh	via
+   1 eh
+   1 egois	pria
+   1 egois
+   1 dvntae	capek
+   1 dvntae
+   1 duren	besok
+   1 duren
+   1 dune	nisadisini
+   1 dune
+   1 dr_tika	minum
+   1 dr_tika
+   1 dns	chikaaudy
+   1 dns
+   1 dkt	pasti
+   1 dkt
+   1 di	rt
+   1 di
+   1 deyliaaaa	kenyong
+   1 deyliaaaa
+   1 detikcom	ti
+   1 detikcom	gileee
+   1 detikcom	dr_tika
+   1 dazzlinm	daging
+   1 dazzlinm
+   1 dan	justru
+   1 dan
+   1 dalem	sby
+   1 dalem
+   1 dalam	rt
+   1 dalam	rapat
+   1 dalam	iya
+   1 daging	cepet
+   1 daging
+   1 cuma	really
+   1 cuma
+   1 congrat	reporternya
+   1 congrat
+   1 com	2010
+   1 com
+   1 cieee	jkt
+   1 cieee
+   1 chrissaysposan	arrvd
+   1 chrissaysposan
+   1 chikaaudy	duren
+   1 chikaaudy
+   1 cepet	usulan
+   1 cepet
+   1 capek	presiden
+   1 capek
+   1 capeeee	19
+   1 capeeee
+   1 bungkulrt	now
+   1 bungkulrt
+   1 bung	sby
+   1 bung
+   1 buat	selepet
+   1 buat
+   1 buahaya	laporkan
+   1 buahaya
+   1 bsk	trs
+   1 bsk
+   1 brkt	rt
+   1 brkt
+   1 bli	sebelum
+   1 bli
+   1 bikin	jam
+   1 bikin
+   1 biaya	rasakan
+   1 biaya
+   1 biasa	andai
+   1 biasa
+   1 betul	krn
+   1 betul
+   1 besok	sby
+   1 besok	ifadafauzia
+   1 besok	hah
+   1 belum	waw
+   1 belum
+   1 belom	hahaha
+   1 belom
+   1 bellaryvia	lol
+   1 bellaryvia
+   1 beli	salah
+   1 beli
+   1 being	sama
+   1 being
+   1 beenran	resha
+   1 beenran
+   1 banyak	klo
+   1 banyak
+   1 bangke	ayoookk
+   1 bangke
+   1 bakal	di
+   1 bakal
+   1 baik	bung
+   1 baik
+   1 bahas	kasusnya
+   1 bahas
+   1 bagus	dvntae
+   1 bagus
+   1 ayoookk	baik
+   1 ayoookk
+   1 ayoo	sahrup
+   1 ayoo	hbd
+   1 ayo	inalillahi
+   1 ayo	amin
+   1 ayaslieby	rt
+   1 ayaslieby
+   1 aww	gadisbyrne
+   1 aww
+   1 audreygallagher	jaksa
+   1 audreygallagher
+   1 asroyangkoi	those
+   1 asroyangkoi
+   1 artha201189	siap
+   1 artha201189
+   1 arrvd	quot
+   1 arrvd
+   1 armada	soundcheck
+   1 armada
+   1 aq	udah
+   1 aq
+   1 apasiii	seperti
+   1 apasiii
+   1 andhinichantika	sparring
+   1 andhinichantika
+   1 anday	gw
+   1 anday
+   1 andai	pagi2
+   1 andai
+   1 an1nd1ta	gadisbyrne
+   1 an1nd1ta
+   1 amin	rt
+   1 amin	quot
+   1 amin	amin
+   1 amandaaanjel	chrissaysposan
+   1 amandaaanjel
+   1 alhamdulillaah	17
+   1 alhamdulillaah
+   1 aku	ugd
+   1 aku	rioalbertoena
+   1 akhirnya	lilamalia
+   1 akhirnya
+   1 ah	hug
+   1 ah
+   1 ada	purna
+   1 ada
+   1 acaranya	kacang
+   1 acaranya
+   1 abiy_jualan	three
+   1 abiy_jualan
+   1 abis	kog
+   1 abis
+   1 _lidsy	#ask
+   1 _lidsy
+   1 3x	2
+   1 3x
+   1 25	24
+   1 25
+   1 24	23
+   1 24
+   1 23	itu
+   1 23
+   1 2010	11
+   1 2010
+   1 2	detikcom
+   1 2
+   1 19	18
+   1 19
+   1 18	kubu
+   1 18	alhamdulillaah
+   1 17	16
+   1 17
+   1 16	15
+   1 16
+   1 158	gila
+   1 158
+   1 15	13
+   1 15
+   1 13	seru
+   1 13
+   1 11	18
+   1 11
+   1 #quizchic	rie_nda
+   1 #quizchic
+   1 #np	#loker
+   1 #np
+   1 #loker	an1nd1ta
+   1 #loker
+   1 #l	pulang
+   1 #l
+   1 #indonesia	rt
+   1 #indonesia	makan
+   1 #indonesia	#indonesia
+   1 #help	#indonesia
+   1 #help
+   1 #drop	mnggu
+   1 #drop
+   1 #ask	rt
+   1 #ask
+   1 #	#l
+   1 #
